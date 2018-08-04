@@ -952,6 +952,22 @@
 	"element": "Dark"
 },
 {
+	"english": "Lvl 50 Electric Eal",
+	"japanese": "Lv50 デンキンナギ",
+	"room": "lvl50electriceal",
+	"image": "/assets/raids/BattleRaid_Bzzt!_Amped-Up_Summer_Extreme.png",
+	"category": "Event",
+	"element": "Light"
+},
+{
+	"english": "Lvl 100 Electric Eal",
+	"japanese": "Lv100 デンキンナギ",
+	"room": "lvl100electriceal",
+	"image": "/assets/raids/BattleRaid_Bzzt!_Amped-Up_Summer_Impossible.png",
+	"category": "Event",
+	"element": "Light"
+},
+{
 	"english": "Lvl 30 Ogler",
 	"japanese": "Lv30 ゲイザー",
 	"room": "lvl30ogler",
