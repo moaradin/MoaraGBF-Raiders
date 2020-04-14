@@ -221,7 +221,7 @@
 	"room": "lvl100xenoifrit",
 	"image": "/assets/raids/Xeno_Ifrit_Raid.jpg",
 	"category": "Event",
-	"element": "Dark"
+	"element": "Fire"
 },
 {
 	"english": "Lvl 100 Grani",
@@ -952,22 +952,6 @@
 	"element": "Dark"
 },
 {
-	"english": "Lvl 50 Electric Eal",
-	"japanese": "Lv50 デンキンナギ",
-	"room": "lvl50electriceal",
-	"image": "/assets/raids/BattleRaid_Bzzt!_Amped-Up_Summer_Extreme.png",
-	"category": "Event",
-	"element": "Light"
-},
-{
-	"english": "Lvl 100 Electric Eal",
-	"japanese": "Lv100 デンキンナギ",
-	"room": "lvl100electriceal",
-	"image": "/assets/raids/BattleRaid_Bzzt!_Amped-Up_Summer_Impossible.png",
-	"category": "Event",
-	"element": "Light"
-},
-{
 	"english": "Lvl 30 Ogler",
 	"japanese": "Lv30 ゲイザー",
 	"room": "lvl30ogler",
@@ -1286,4 +1270,244 @@
 	"image": "/assets/raids/BattleRaid_Snow_White_Nightmare100.png",
 	"category": "Unite and Fight",
 	"element": "Water"
+},
+{
+	"english": "Lvl 30 Pisard",
+	"japanese": "Lv30 ピーサード",
+	"room": "lvl30pisard",
+	"image": "/assets/raids/BattleRaid_Pretty_Cure_Memories_of_the_Sky_Raid_Very_Hard.png",
+	"category": "Event",
+	"element": "Dark"
+},
+{
+	"english": "Lvl 50 Pisard",
+	"japanese": "Lv50 ピーサード",
+	"room": "lvl50pisard",
+	"image": "/assets/raids/BattleRaid_Pretty_Cure_Memories_of_the_Sky_Raid_Extreme.png",
+	"category": "Event",
+	"element": "Dark"
+},
+{
+	"english": "Lvl 60 Desperate Pisard",
+	"japanese": "Lv60 捨て身のピーサード",
+	"room": "lvl60desperatepisard",
+	"image": "/assets/raids/BattleRaid_Pretty_Cure_Memories_of_the_Sky_Nightmare120.png",
+	"category": "Event",
+	"element": "Dark"
+},
+{
+	"english": "Lvl 30 Nagelwolf",
+	"japanese": "Lv30 ナーゲルヴォルフ",
+	"room": "lvl30nagelwolf",
+	"image": "/assets/raids/BattleRaid_Divergent_Knighthoods_Raid_Very_Hard.png",
+	"category": "Event",
+	"element": "Earth"
+},
+{
+	"english": "Lvl 50 Bone Dragon",
+	"japanese": "Lv50 ボーンドラゴン",
+	"room": "lvl50bonedragon",
+	"image": "/assets/raids/BattleRaid_Divergent_Knighthoods_Raid_Extreme.png",
+	"category": "Event",
+	"element": "Earth"
+},
+{
+	"english": "Lvl 90 Freyr",
+	"japanese": "Lv90 フレイ",
+	"room": "lvl90freyr",
+	"image": "/assets/raids/BattleRaid_Freyr_Nightmare90.png",
+	"category": "Unite and Fight",
+	"element": "Wind"
+},
+{
+	"english": "Lvl 95 Freyr",
+	"japanese": "Lv95 フレイ",
+	"room": "lvl95freyr",
+	"image": "/assets/raids/BattleRaid_Freyr_Nightmare95.png",
+	"category": "Unite and Fight",
+	"element": "Wind"
+},
+{
+	"english": "Lvl 100 Freyr",
+	"japanese": "Lv100 フレイ",
+	"room": "lvl100freyr",
+	"image": "/assets/raids/BattleRaid_Freyr_Nightmare100.png",
+	"category": "Unite and Fight",
+	"element": "Wind"
+},
+{
+	"english": "Huanglong & Qilin (Impossible)",
+	"japanese": "黄龍・黒麒麟HL",
+	"room": "huanglongqilin",
+	"image": "/assets/raids/BattleRaid_Huanglong_and_Qilin_Impossible.png",
+	"category": "Rise of the Beasts",
+	"element": "None"
+},
+{
+	"english": "Lvl 150 Tiamat Malice",
+	"japanese": "Lv150 ティアマト・マリス",
+	"room": "lvl150tiamatmalice",
+	"image": "/assets/raids/BattleRaid_Tiamat_Malice_Impossible.png",
+	"category": "Impossible Nightmare",
+	"element": "Wind"
+},
+{
+	"english": "Lvl 200 Akasha",
+	"japanese": "Lv200 アーカーシャ",
+	"room": "lvl200akasha",
+	"image": "/assets/raids/BattleRaid_Akasha_Impossible.png",
+	"category": "Impossible Nightmare",
+	"element": "Light"
+},
+{
+	"english": "Lvl 50 Mahisha",
+	"japanese": "Lv50 マヒシャ",
+	"room": "lvl50mahisha",
+	"image": "/assets/raids/BattleRaid_Bizarre_Beast_Very_Hard.png",
+	"category": "Unite and Fight",
+	"element": "Light"
+},
+{
+	"english": "Lvl 60 Mahisha",
+	"japanese": "Lv60 マヒシャ",
+	"room": "lvl60mahisha",
+	"image": "/assets/raids/BattleRaid_Bizarre_Beast_Extreme.png",
+	"category": "Unite and Fight",
+	"element": "Light"
+},
+{
+	"english": "Lvl 75 Supergigante",
+	"japanese": "Lv75 スーペルヒガンテ",
+	"room": "lvl75supergigante",
+	"image": "/assets/raids/BattleRaid_Bizarre_Beast_ExtremePlus.png",
+	"category": "Unite and Fight",
+	"element": "Light"
+},
+{
+	"english": "Lvl 90 Vortex Dragon",
+	"japanese": "Lv90 雷霆公",
+	"room": "lvl90vortexdragon",
+	"image": "/assets/raids/BattleRaid_Bizarre_Beast_ExtremePlus.png",
+	"category": "Unite and Fight",
+	"element": "Light"
+},
+{
+	"english": "Lvl 95 Vortex Dragon",
+	"japanese": "Lv95 雷霆公",
+	"room": "lvl95vortexdragon",
+	"image": "/assets/raids/BattleRaid_Bizarre_Beast_ExtremePlus.png",
+	"category": "Unite and Fight",
+	"element": "Light"
+},
+{
+	"english": "Lvl 100 Vortex Dragon",
+	"japanese": "Lv100 雷霆公",
+	"room": "lvl100vortexdragon",
+	"image": "/assets/raids/BattleRaid_Bizarre_Beast_ExtremePlus.png",
+	"category": "Unite and Fight",
+	"element": "Light"
+},
+{
+	"english": "Lvl 90 Tsukuyomi",
+	"japanese": "Lv90 ツクヨミ",
+	"room": "lvl90tsukuyomi",
+	"image": "/assets/raids/BattleRaid_Tsukuyomi_Nightmare90.png",
+	"category": "Unite and Fight",
+	"element": "Dark"
+},
+{
+	"english": "Lvl 95 Tsukuyomi",
+	"japanese": "Lv95 ツクヨミ",
+	"room": "lvl95tsukuyomi",
+	"image": "/assets/raids/BattleRaid_Tsukuyomi_Nightmare95.png",
+	"category": "Unite and Fight",
+	"element": "Dark"
+},
+{
+	"english": "Lvl 100 Tsukuyomi",
+	"japanese": "Lv100 ツクヨミ",
+	"room": "lvl100tsukuyomi",
+	"image": "/assets/raids/BattleRaid_Tsukuyomi_Nightmare100.png",
+	"category": "Unite and Fight",
+	"element": "Dark"
+},
+{
+	"english": "Lvl 150 Lucilius",
+	"japanese": "Lv150 ルシファー",
+	"room": "lvl150lucilius",
+	"image": "/assets/raids/BattleRaid_Lucilius_Impossible.png",
+	"category": "Impossible Nightmare",
+	"element": "Dark"
+},
+{
+	"english": "Lvl 250 Lucilius",
+	"japanese": "Lv250 ルシファー",
+	"room": "lvl250lucilius",
+	"image": "/assets/raids/BattleRaid_Lucilius_ImpossibleHard.png",
+	"category": "Rapture",
+	"element": "Dark"
+},
+{
+	"english": "The Four Primarchs",
+	"japanese": "四大天司ＨＬ",
+	"room": "thefourprimarchs",
+	"image": "/assets/raids/BattleRaid_The_Four_Primarchs_Impossible.png",
+	"category": "Impossible Nightmare",
+	"element": "None"
+},
+{
+	"english": "Lvl 90 Varuna",
+	"japanese": "Lv90 ツクヨミ",
+	"room": "lvl90varuna",
+	"image": "/assets/raids/BattleRaid_Varuna_Nightmare90.png",
+	"category": "Unite and Fight",
+	"element": "Water"
+},
+{
+	"english": "Lvl 95 Varuna",
+	"japanese": "Lv95 ツクヨミ",
+	"room": "lvl95varuna",
+	"image": "/assets/raids/BattleRaid_Varuna_Nightmare95.png",
+	"category": "Unite and Fight",
+	"element": "Water"
+},
+{
+	"english": "Lvl 100 Varuna",
+	"japanese": "Lv100 ツクヨミ",
+	"room": "lvl100varuna",
+	"image": "/assets/raids/BattleRaid_Varuna_Nightmare100.png",
+	"category": "Unite and Fight",
+	"element": "Water"
+},
+{
+	"english": "Lvl 90 Garula, Shining Hawk",
+	"japanese": "Lv90 シャインホーク・ガルラ",
+	"room": "lvl90garula",
+	"image": "/assets/raids/BattleRaid_Garula_Nightmare90.png",
+	"category": "Unite and Fight",
+	"element": "Wind"
+},
+{
+	"english": "Lvl 95 Garula, Shining Hawk",
+	"japanese": "Lv95 シャインホーク・ガルラ",
+	"room": "lvl95garula",
+	"image": "/assets/raids/BattleRaid_Garula_Nightmare95.png",
+	"category": "Unite and Fight",
+	"element": "Wind"
+},
+{
+	"english": "Lvl 100 Garula, Shining Hawk",
+	"japanese": "Lv100 シャインホーク・ガルラ",
+	"room": "lvl100garula",
+	"image": "/assets/raids/BattleRaid_Garula_Nightmare100.png",
+	"category": "Unite and Fight",
+	"element": "Wind"
+},
+{
+	"english": "Lvl 200 Grand Order",
+	"japanese": "Lv200 ジ・オーダー・グランデ",
+	"room": "lvl200grandorder",
+	"image": "/assets/raids/BattleRaid_The_Peacemaker's_Wings_Impossible.jpg",
+	"category": "Impossible",
+	"element": "Light"
 }]
