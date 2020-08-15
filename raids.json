@@ -1566,4 +1566,12 @@
 	"image": "/assets/raids/150px-BattleRaid_Fediel_Impossible.png",
 	"category": "Impossible",
 	"element": "Dark"
+},
+{
+	"english": "Lvl 100 Shenxian",
+	"japanese": "Lv100 四象瑞神",
+	"room": "lvl100shenxian",
+	"image": "/assets/raids/BattleRaid_Shenxian_Impossible.png",
+	"category": "Rise of the Beasts",
+	"element": "None"
 }]
